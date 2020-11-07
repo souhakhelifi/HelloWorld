@@ -1,0 +1,14 @@
+Question 1
+ Le nom du fichier de mise en page de l activité principale :
+activity_main.xml
+Question 2
+ Le nom de la ressource chaîne qui spécifie le nom de
+l application : app_name
+Question 3
+ Pour créer un nouvel émulateur on doit utiliser : AVD Manager
+Question 4
+Supposons que notre application inclut cette instruction de
+journalisation :
+Log.i(&quot;MainActivity&quot;, &quot;MainActivity layout is complete&quot;);
+Donc la mention &quot;MainActivity layout is complete&quot; dans le
+volet Logcat si le menu de niveau Log est réglé sur l’élément Info
